@@ -1,3 +1,0 @@
-name: fresh-test
-description: A program that tests that the basic Sourcegraph deployment is runnable.
-runtime: nodejs
