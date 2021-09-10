@@ -12,3 +12,10 @@ generated-cluster/
 /right.dhall
 go.mod
 go.sum
+renovate.json
+yam.lock
+/.buildkite
+/.github
+/.vscode
+/tests
+
