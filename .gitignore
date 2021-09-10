@@ -10,3 +10,5 @@ Pulumi.*.yaml
 generated-cluster/
 
 /right.dhall
+go.mod
+go.sum
